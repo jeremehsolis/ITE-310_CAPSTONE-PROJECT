@@ -1,2 +1,1 @@
-# ITE-310_CAPSTONE-PROJECT
-PHINMA UPang Room Assignment and Scheduling System
+The PHINMA-UPang Room Assignment and Scheduling System aims to solve the discrepancy in the schedule experienced by the students the presence of our system will make it easier to monitor and assign rooms and also to lessen if not totally eliminated the discrepancies. PHINMA University of Pangasinan is one of the many institutions that utilizes information technology (IT) to make lives better, not just for the students but also for their services.
